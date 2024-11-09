@@ -1,0 +1,26 @@
+.cabecalho{
+    position: absolute;
+    height: 30%;
+    width: 40%;
+    left: 30%;
+}
+
+
+table{
+    position: absolute;
+    column-span: 50%;
+    text-align: center;
+    left: 33%;
+    top: 40%;
+    
+}
+
+.tabima{
+    position: relative;
+    display: inline-block;
+    width: 150px;
+    margin: 55px;
+    
+    
+
+}
